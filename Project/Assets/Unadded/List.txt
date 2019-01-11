@@ -1,0 +1,17 @@
+3D Models:
+Snowy Tree (consider making a detailed version and a low poly version)
+Player Character (Snowball or Snowman head)
+Landscape (Via Unreal Landscape Editor) Jared
+Slalom Flags
+Finish line/ Start Line
+Icicle/ Ice Spike (sticking out of the ground)
+Deer?
+Other Decorative elements as needed
+Textures:
+Snow
+Icy Patches
+Mountain Rock?
+Sounds:
+Music: Christian
+Collision Sounds
+Ramp Trills
